@@ -16,6 +16,10 @@
 
 @import "bootstrap";
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+
+
 .clear {
   clear: both;
 }
@@ -64,7 +68,21 @@ hr {
     clear: both;
 }
 
+h1 {
+    font-family: 'boisustroke';
+    src: url('boisu-stoke-webfont.woff2') format('woff2'),
+         url('boisu-stroke-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
+h2 {
+    font-family: 'boisustroke';
+    src: url('boisu-stoke-webfont.woff2') format('woff2'),
+         url('boisu-stroke-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 
